@@ -1,0 +1,55 @@
+.card{
+    box-shadow: 0 0 10px rgb(128, 128, 128, 0.42);
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+.photo {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    height: 15em;
+}
+.input{
+    width: 45rem;
+    border: 1px solid blue;
+    border-radius: 5px;
+    margin-left: 8%;
+    margin-top: 10px;
+}
+.back{
+    background-color: black;
+    height: 3rem;
+}
+.button-Search{
+    text-decoration: none;
+
+}
+.title{
+    font-size: 10px;
+    color: #434442;
+
+}
+.des {
+
+    font-size: 8px;
+    color: #80817f;
+}
+.btn{
+    margin-left: 30%;
+    margin-top: 10px;
+}
+.box{
+    background-color: #dcddda;
+}
+.row{
+    padding-top: 1rem;
+    padding-left: 4rem;
+}
+.update{
+    font-size: 10px;
+}
+.movie{
+    margin-left: 5rem;
+    font-weight: bold;
+}
