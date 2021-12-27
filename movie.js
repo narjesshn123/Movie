@@ -31,10 +31,10 @@ const cardView = (cardInfo) => {
 }
 
 
-const generateCards = (cardInfoList) => {
-    return cardInfoList.map(cardInfo => {
+const generateCards = (cardInfoList) =>{
+    return cardInfoList.map(cardInfo =>{
         return cardView(cardInfo)
-    })
+    }).join("")
 }
 
 
